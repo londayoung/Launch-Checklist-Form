@@ -9,5 +9,5 @@
    <li>Distance from Earth: ${}</li>
    <li>Number of Moons: ${}</li>
 </ol>
-<img src="${data.image}">
+<img src="${}">
 */
