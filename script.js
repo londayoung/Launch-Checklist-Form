@@ -1,5 +1,5 @@
 // Write your JavaScript code here!
-let button = null;
+let button = null; 
 
 window.addEventListener("load", function () {
    let form = document.querySelector("form");
