@@ -63,7 +63,7 @@ window.addEventListener("load", function () {
       response.json().then(function (json) {
          const div = document.getElementById("missionTarget");
          div.innerHTML = `
-         <h2>Mission Destination</h2>
+         <h3>Mission Destination</h3>
            <ol>
            <li>Name: ${json[0].name}</li>
            <li>Diameter: ${json[0].diameter}</li>
