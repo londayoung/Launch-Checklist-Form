@@ -18,6 +18,7 @@ window.addEventListener("load", function () {
          event.preventDefault()
       }
 
+// fixing git issue
 
       if (fuelLevelInput.value < 10000) {
          viewItems()
